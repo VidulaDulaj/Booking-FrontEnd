@@ -1,0 +1,2 @@
+C:\Users\HP\Desktop\Courses\L5\Semester 2\5COSC021W.2 Software Development Group Project\CourseWork\CW2\Code\Booking\Booking\obj\Debug\booking.esproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Courses\L5\Semester 2\5COSC021W.2 Software Development Group Project\CourseWork\CW2\Code\Booking\Booking\obj\Debug\booking.esproj.CoreCompileInputs.cache
